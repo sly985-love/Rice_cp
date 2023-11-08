@@ -1,0 +1,803 @@
+D:\ProgramData\Anaconda3\envs\cpy37\python.exe "D:/Cp/pycharm/Semantic Segmentation/deeplabv3-plus-pytorch-main/train.py"
+Load weights model_data/deeplab_mobilenetv2.pth.
+Start Train
+Epoch 1/100: 100%|██████████| 36/36 [00:27<00:00,  1.31it/s, f_score=0.129, lr=5e-5, total_loss=1.3]
+Epoch 1/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 1/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.339, lr=5e-5, total_loss=0.856]
+Finish Validation
+Epoch:1/100
+Total Loss: 1.265 || Val Loss: 0.685 
+Epoch 2/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 2/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.359, lr=4.7e-5, total_loss=0.758]
+Epoch 2/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 2/100: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it, f_score=0.361, lr=4.7e-5, total_loss=0.658]
+Finish Validation
+Epoch:2/100
+Total Loss: 0.738 || Val Loss: 0.527 
+Epoch 3/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 3/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.401, lr=4.42e-5, total_loss=0.603]
+Epoch 3/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 3/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.543, lr=4.42e-5, total_loss=0.563]
+Finish Validation
+Epoch:3/100
+Total Loss: 0.586 || Val Loss: 0.450 
+Epoch 4/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 4/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.449, lr=4.15e-5, total_loss=0.503]
+Finish Train
+Start Validation
+Epoch 4/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.43, lr=4.15e-5, total_loss=0.478]
+Finish Validation
+Epoch:4/100
+Total Loss: 0.489 || Val Loss: 0.383 
+Start Train
+Epoch 5/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.492, lr=3.9e-5, total_loss=0.455]
+Finish Train
+Start Validation
+Epoch 5/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.571, lr=3.9e-5, total_loss=0.41]
+Finish Validation
+Epoch:5/100
+Total Loss: 0.443 || Val Loss: 0.328 
+Epoch 6/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 6/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.528, lr=3.67e-5, total_loss=0.417]
+Epoch 6/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 6/100: 100%|██████████| 4/4 [00:04<00:00,  1.03s/it, f_score=0.561, lr=3.67e-5, total_loss=0.388]
+Finish Validation
+Epoch:6/100
+Total Loss: 0.406 || Val Loss: 0.310 
+Start Train
+Epoch 7/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.572, lr=3.45e-5, total_loss=0.413]
+Finish Train
+Start Validation
+Epoch 7/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.615, lr=3.45e-5, total_loss=0.363]
+Finish Validation
+Epoch:7/100
+Total Loss: 0.402 || Val Loss: 0.291 
+Epoch 8/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 8/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.608, lr=3.24e-5, total_loss=0.358]
+Epoch 8/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 8/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.593, lr=3.24e-5, total_loss=0.36]
+Finish Validation
+Epoch:8/100
+Total Loss: 0.348 || Val Loss: 0.288 
+Epoch 9/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 9/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.601, lr=3.05e-5, total_loss=0.355]
+Epoch 9/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 9/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.597, lr=3.05e-5, total_loss=0.339]
+Finish Validation
+Epoch:9/100
+Total Loss: 0.345 || Val Loss: 0.271 
+Start Train
+Epoch 10/100: 100%|██████████| 36/36 [00:22<00:00,  1.59it/s, f_score=0.58, lr=2.86e-5, total_loss=0.352]
+Finish Train
+Start Validation
+Epoch 10/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.664, lr=2.86e-5, total_loss=0.342]
+Finish Validation
+Epoch:10/100
+Total Loss: 0.343 || Val Loss: 0.274 
+Epoch 11/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 11/100: 100%|██████████| 36/36 [00:23<00:00,  1.50it/s, f_score=0.61, lr=2.69e-5, total_loss=0.326]
+Finish Train
+Start Validation
+Epoch 11/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.668, lr=2.69e-5, total_loss=0.321]
+Finish Validation
+Epoch:11/100
+Total Loss: 0.317 || Val Loss: 0.257 
+Start Train
+Epoch 12/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.65, lr=2.53e-5, total_loss=0.286]
+Finish Train
+Start Validation
+Epoch 12/100: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it, f_score=0.711, lr=2.53e-5, total_loss=0.305]
+Finish Validation
+Epoch:12/100
+Total Loss: 0.279 || Val Loss: 0.244 
+Epoch 13/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 13/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.676, lr=2.38e-5, total_loss=0.299]
+Epoch 13/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 13/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.777, lr=2.38e-5, total_loss=0.292]
+Finish Validation
+Epoch:13/100
+Total Loss: 0.291 || Val Loss: 0.234 
+Epoch 14/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 14/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.68, lr=2.24e-5, total_loss=0.282]
+Finish Train
+Start Validation
+Epoch 14/100: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it, f_score=0.741, lr=2.24e-5, total_loss=0.285]
+Finish Validation
+Epoch:14/100
+Total Loss: 0.274 || Val Loss: 0.228 
+Epoch 15/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 15/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.716, lr=2.1e-5, total_loss=0.274]
+Epoch 15/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 15/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.753, lr=2.1e-5, total_loss=0.287]
+Finish Validation
+Epoch:15/100
+Total Loss: 0.266 || Val Loss: 0.230 
+Epoch 16/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 16/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.704, lr=1.98e-5, total_loss=0.252]
+Epoch 16/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 16/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.754, lr=1.98e-5, total_loss=0.28]
+Finish Validation
+Epoch:16/100
+Total Loss: 0.245 || Val Loss: 0.224 
+Start Train
+Epoch 17/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.732, lr=1.86e-5, total_loss=0.259]
+Finish Train
+Start Validation
+Epoch 17/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.694, lr=1.86e-5, total_loss=0.279]
+Finish Validation
+Epoch:17/100
+Total Loss: 0.252 || Val Loss: 0.223 
+Epoch 18/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 18/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.73, lr=1.75e-5, total_loss=0.243]
+Finish Train
+Start Validation
+Epoch 18/100: 100%|██████████| 4/4 [00:04<00:00,  1.03s/it, f_score=0.784, lr=1.75e-5, total_loss=0.282]
+Finish Validation
+Epoch:18/100
+Total Loss: 0.237 || Val Loss: 0.226 
+Start Train
+Epoch 19/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.736, lr=1.64e-5, total_loss=0.232]
+Finish Train
+Start Validation
+Epoch 19/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.727, lr=1.64e-5, total_loss=0.284]
+Finish Validation
+Epoch:19/100
+Total Loss: 0.226 || Val Loss: 0.227 
+Start Train
+Epoch 20/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.756, lr=1.54e-5, total_loss=0.229]
+Finish Train
+Start Validation
+Epoch 20/100: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it, f_score=0.72, lr=1.54e-5, total_loss=0.263]
+Finish Validation
+Epoch:20/100
+Total Loss: 0.223 || Val Loss: 0.211 
+Epoch 21/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 21/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.74, lr=1.45e-5, total_loss=0.221]
+Finish Train
+Start Validation
+Epoch 21/100: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it, f_score=0.759, lr=1.45e-5, total_loss=0.253]
+Finish Validation
+Epoch:21/100
+Total Loss: 0.215 || Val Loss: 0.202 
+Epoch 22/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 22/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.757, lr=1.36e-5, total_loss=0.218]
+Finish Train
+Start Validation
+Epoch 22/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.704, lr=1.36e-5, total_loss=0.275]
+Finish Validation
+Epoch:22/100
+Total Loss: 0.212 || Val Loss: 0.220 
+Start Train
+Epoch 23/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.766, lr=1.28e-5, total_loss=0.235]
+Finish Train
+Start Validation
+Epoch 23/100: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it, f_score=0.759, lr=1.28e-5, total_loss=0.261]
+Finish Validation
+Epoch:23/100
+Total Loss: 0.228 || Val Loss: 0.209 
+Start Train
+Epoch 24/100: 100%|██████████| 36/36 [00:22<00:00,  1.58it/s, f_score=0.756, lr=1.2e-5, total_loss=0.214]
+Finish Train
+Start Validation
+Epoch 24/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.708, lr=1.2e-5, total_loss=0.258]
+Finish Validation
+Epoch:24/100
+Total Loss: 0.208 || Val Loss: 0.206 
+Start Train
+Epoch 25/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.725, lr=1.13e-5, total_loss=0.217]
+Finish Train
+Start Validation
+Epoch 25/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.753, lr=1.13e-5, total_loss=0.259]
+Finish Validation
+Epoch:25/100
+Total Loss: 0.211 || Val Loss: 0.207 
+Epoch 26/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 26/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.778, lr=1.06e-5, total_loss=0.207]
+Epoch 26/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 26/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.763, lr=1.06e-5, total_loss=0.255]
+Finish Validation
+Epoch:26/100
+Total Loss: 0.201 || Val Loss: 0.204 
+Epoch 27/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 27/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.777, lr=1e-5, total_loss=0.205]
+Finish Train
+Start Validation
+Epoch 27/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.765, lr=1e-5, total_loss=0.24]
+Finish Validation
+Epoch:27/100
+Total Loss: 0.199 || Val Loss: 0.192 
+Start Train
+Epoch 28/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.795, lr=9.41e-6, total_loss=0.207]
+Finish Train
+Start Validation
+Epoch 28/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.702, lr=9.41e-6, total_loss=0.251]
+Finish Validation
+Epoch:28/100
+Total Loss: 0.202 || Val Loss: 0.201 
+Epoch 29/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 29/100: 100%|██████████| 36/36 [00:22<00:00,  1.58it/s, f_score=0.777, lr=8.84e-6, total_loss=0.215]
+Finish Train
+Start Validation
+Epoch 29/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.768, lr=8.84e-6, total_loss=0.246]
+Finish Validation
+Epoch:29/100
+Total Loss: 0.209 || Val Loss: 0.196 
+Epoch 30/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 30/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.763, lr=8.31e-6, total_loss=0.202]
+Finish Train
+Start Validation
+Epoch 30/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.749, lr=8.31e-6, total_loss=0.226]
+Finish Validation
+Epoch:30/100
+Total Loss: 0.197 || Val Loss: 0.181 
+Epoch 31/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 31/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.768, lr=7.81e-6, total_loss=0.207]
+Finish Train
+Start Validation
+Epoch 31/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.761, lr=7.81e-6, total_loss=0.241]
+Finish Validation
+Epoch:31/100
+Total Loss: 0.202 || Val Loss: 0.193 
+Start Train
+Epoch 32/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.796, lr=7.34e-6, total_loss=0.186]
+Finish Train
+Start Validation
+Epoch 32/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.767, lr=7.34e-6, total_loss=0.241]
+Finish Validation
+Epoch:32/100
+Total Loss: 0.181 || Val Loss: 0.193 
+Start Train
+Epoch 33/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.778, lr=6.9e-6, total_loss=0.201]
+Epoch 33/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 33/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.769, lr=6.9e-6, total_loss=0.239]
+Finish Validation
+Epoch:33/100
+Total Loss: 0.195 || Val Loss: 0.191 
+Epoch 34/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 34/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.777, lr=6.49e-6, total_loss=0.191]
+Finish Train
+Start Validation
+Epoch 34/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.813, lr=6.49e-6, total_loss=0.225]
+Finish Validation
+Epoch:34/100
+Total Loss: 0.186 || Val Loss: 0.180 
+Epoch 35/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 35/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.764, lr=6.1e-6, total_loss=0.211]
+Epoch 35/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 35/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.743, lr=6.1e-6, total_loss=0.242]
+Finish Validation
+Epoch:35/100
+Total Loss: 0.205 || Val Loss: 0.194 
+Start Train
+Epoch 36/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.792, lr=5.73e-6, total_loss=0.194]
+Epoch 36/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 36/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.808, lr=5.73e-6, total_loss=0.233]
+Finish Validation
+Epoch:36/100
+Total Loss: 0.189 || Val Loss: 0.186 
+Epoch 37/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 37/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.773, lr=5.39e-6, total_loss=0.191]
+Finish Train
+Start Validation
+Epoch 37/100: 100%|██████████| 4/4 [00:04<00:00,  1.03s/it, f_score=0.741, lr=5.39e-6, total_loss=0.236]
+Finish Validation
+Epoch:37/100
+Total Loss: 0.186 || Val Loss: 0.189 
+Epoch 38/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 38/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.796, lr=5.07e-6, total_loss=0.179]
+Epoch 38/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 38/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.786, lr=5.07e-6, total_loss=0.235]
+Finish Validation
+Epoch:38/100
+Total Loss: 0.174 || Val Loss: 0.188 
+Epoch 39/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 39/100: 100%|██████████| 36/36 [00:22<00:00,  1.58it/s, f_score=0.777, lr=4.76e-6, total_loss=0.205]
+Finish Train
+Start Validation
+Epoch 39/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.808, lr=4.76e-6, total_loss=0.224]
+Finish Validation
+Epoch:39/100
+Total Loss: 0.199 || Val Loss: 0.179 
+Epoch 40/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 40/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.789, lr=4.48e-6, total_loss=0.19]
+Epoch 40/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 40/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.756, lr=4.48e-6, total_loss=0.225]
+Finish Validation
+Epoch:40/100
+Total Loss: 0.185 || Val Loss: 0.180 
+Start Train
+Epoch 41/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.769, lr=4.21e-6, total_loss=0.206]
+Finish Train
+Start Validation
+Epoch 41/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.815, lr=4.21e-6, total_loss=0.229]
+Finish Validation
+Epoch:41/100
+Total Loss: 0.201 || Val Loss: 0.183 
+Epoch 42/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 42/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.799, lr=3.96e-6, total_loss=0.178]
+Finish Train
+Start Validation
+Epoch 42/100: 100%|██████████| 4/4 [00:04<00:00,  1.09s/it, f_score=0.794, lr=3.96e-6, total_loss=0.227]
+Finish Validation
+Epoch:42/100
+Total Loss: 0.173 || Val Loss: 0.182 
+Start Train
+Epoch 43/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.781, lr=3.72e-6, total_loss=0.184]
+Epoch 43/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 43/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.824, lr=3.72e-6, total_loss=0.228]
+Finish Validation
+Epoch:43/100
+Total Loss: 0.179 || Val Loss: 0.183 
+Start Train
+Epoch 44/100: 100%|██████████| 36/36 [00:22<00:00,  1.61it/s, f_score=0.815, lr=3.5e-6, total_loss=0.175]
+Finish Train
+Start Validation
+Epoch 44/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.765, lr=3.5e-6, total_loss=0.232]
+Finish Validation
+Epoch:44/100
+Total Loss: 0.170 || Val Loss: 0.185 
+Start Train
+Epoch 45/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.797, lr=3.29e-6, total_loss=0.194]
+Finish Train
+Start Validation
+Epoch 45/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.797, lr=3.29e-6, total_loss=0.228]
+Finish Validation
+Epoch:45/100
+Total Loss: 0.189 || Val Loss: 0.183 
+Start Train
+Epoch 46/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.788, lr=3.09e-6, total_loss=0.182]
+Finish Train
+Start Validation
+Epoch 46/100: 100%|██████████| 4/4 [00:04<00:00,  1.09s/it, f_score=0.769, lr=3.09e-6, total_loss=0.223]
+Finish Validation
+Epoch:46/100
+Total Loss: 0.177 || Val Loss: 0.179 
+Start Train
+Epoch 47/100: 100%|██████████| 36/36 [00:23<00:00,  1.50it/s, f_score=0.789, lr=2.9e-6, total_loss=0.168]
+Epoch 47/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 47/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.776, lr=2.9e-6, total_loss=0.236]
+Finish Validation
+Epoch:47/100
+Total Loss: 0.163 || Val Loss: 0.189 
+Start Train
+Epoch 48/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.8, lr=2.73e-6, total_loss=0.174]
+Epoch 48/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 48/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.83, lr=2.73e-6, total_loss=0.226]
+Finish Validation
+Epoch:48/100
+Total Loss: 0.170 || Val Loss: 0.181 
+Start Train
+Epoch 49/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.798, lr=2.57e-6, total_loss=0.178]
+Epoch 49/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 49/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.8, lr=2.57e-6, total_loss=0.231]
+Finish Validation
+Epoch:49/100
+Total Loss: 0.173 || Val Loss: 0.184 
+Epoch 50/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 50/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.789, lr=2.41e-6, total_loss=0.181]
+Finish Train
+Start Validation
+Epoch 50/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.771, lr=2.41e-6, total_loss=0.239]
+Finish Validation
+Epoch:50/100
+Total Loss: 0.176 || Val Loss: 0.191 
+Epoch 51/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 51/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.804, lr=2.27e-6, total_loss=0.184]
+Finish Train
+Start Validation
+Epoch 51/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.778, lr=2.27e-6, total_loss=0.232]
+Finish Validation
+Epoch:51/100
+Total Loss: 0.179 || Val Loss: 0.186 
+Start Train
+Epoch 52/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.796, lr=2.13e-6, total_loss=0.173]
+Epoch 52/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 52/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.805, lr=2.13e-6, total_loss=0.22]
+Finish Validation
+Epoch:52/100
+Total Loss: 0.168 || Val Loss: 0.176 
+Start Train
+Epoch 53/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.791, lr=2e-6, total_loss=0.172]
+Finish Train
+Start Validation
+Epoch 53/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.859, lr=2e-6, total_loss=0.221]
+Finish Validation
+Epoch:53/100
+Total Loss: 0.167 || Val Loss: 0.177 
+Start Train
+Epoch 54/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.801, lr=1.88e-6, total_loss=0.184]
+Finish Train
+Start Validation
+Epoch 54/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.796, lr=1.88e-6, total_loss=0.235]
+Finish Validation
+Epoch:54/100
+Total Loss: 0.179 || Val Loss: 0.188 
+Epoch 55/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 55/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.799, lr=1.77e-6, total_loss=0.183]
+Finish Train
+Start Validation
+Epoch 55/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.791, lr=1.77e-6, total_loss=0.232]
+Finish Validation
+Epoch:55/100
+Total Loss: 0.178 || Val Loss: 0.185 
+Start Train
+Epoch 56/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.799, lr=1.66e-6, total_loss=0.177]
+Finish Train
+Start Validation
+Epoch 56/100: 100%|██████████| 4/4 [00:04<00:00,  1.09s/it, f_score=0.735, lr=1.66e-6, total_loss=0.233]
+Finish Validation
+Epoch:56/100
+Total Loss: 0.173 || Val Loss: 0.187 
+Start Train
+Epoch 57/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.805, lr=1.56e-6, total_loss=0.175]
+Finish Train
+Start Validation
+Epoch 57/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.814, lr=1.56e-6, total_loss=0.23]
+Finish Validation
+Epoch:57/100
+Total Loss: 0.170 || Val Loss: 0.184 
+Epoch 58/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 58/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.814, lr=1.47e-6, total_loss=0.17]
+Finish Train
+Start Validation
+Epoch 58/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.826, lr=1.47e-6, total_loss=0.229]
+Finish Validation
+Epoch:58/100
+Total Loss: 0.165 || Val Loss: 0.183 
+Start Train
+Epoch 59/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.799, lr=1.38e-6, total_loss=0.176]
+Finish Train
+Start Validation
+Epoch 59/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.798, lr=1.38e-6, total_loss=0.227]
+Finish Validation
+Epoch:59/100
+Total Loss: 0.171 || Val Loss: 0.182 
+Start Train
+Epoch 60/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.788, lr=1.3e-6, total_loss=0.174]
+Epoch 60/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 60/100: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it, f_score=0.792, lr=1.3e-6, total_loss=0.209]
+Finish Validation
+Epoch:60/100
+Total Loss: 0.170 || Val Loss: 0.168 
+Start Train
+Epoch 61/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.806, lr=1.22e-6, total_loss=0.182]
+Finish Train
+Start Validation
+Epoch 61/100: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it, f_score=0.846, lr=1.22e-6, total_loss=0.222]
+Finish Validation
+Epoch:61/100
+Total Loss: 0.177 || Val Loss: 0.178 
+Epoch 62/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 62/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.796, lr=1.15e-6, total_loss=0.175]
+Finish Train
+Start Validation
+Epoch 62/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.781, lr=1.15e-6, total_loss=0.235]
+Finish Validation
+Epoch:62/100
+Total Loss: 0.171 || Val Loss: 0.188 
+Start Train
+Epoch 63/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.801, lr=1.08e-6, total_loss=0.174]
+Finish Train
+Start Validation
+Epoch 63/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.793, lr=1.08e-6, total_loss=0.227]
+Finish Validation
+Epoch:63/100
+Total Loss: 0.170 || Val Loss: 0.182 
+Start Train
+Epoch 64/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.794, lr=1.01e-6, total_loss=0.187]
+Finish Train
+Start Validation
+Epoch 64/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.797, lr=1.01e-6, total_loss=0.206]
+Finish Validation
+Epoch:64/100
+Total Loss: 0.182 || Val Loss: 0.164 
+Start Train
+Epoch 65/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.786, lr=9.53e-7, total_loss=0.176]
+Finish Train
+Start Validation
+Epoch 65/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.811, lr=9.53e-7, total_loss=0.227]
+Finish Validation
+Epoch:65/100
+Total Loss: 0.171 || Val Loss: 0.182 
+Start Train
+Epoch 66/100: 100%|██████████| 36/36 [00:24<00:00,  1.50it/s, f_score=0.8, lr=8.96e-7, total_loss=0.179]
+Finish Train
+Start Validation
+Epoch 66/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.8, lr=8.96e-7, total_loss=0.23]
+Finish Validation
+Epoch:66/100
+Total Loss: 0.174 || Val Loss: 0.184 
+Epoch 67/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 67/100: 100%|██████████| 36/36 [00:23<00:00,  1.50it/s, f_score=0.811, lr=8.42e-7, total_loss=0.169]
+Epoch 67/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 67/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.801, lr=8.42e-7, total_loss=0.229]
+Finish Validation
+Epoch:67/100
+Total Loss: 0.165 || Val Loss: 0.183 
+Start Train
+Epoch 68/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.802, lr=7.92e-7, total_loss=0.184]
+Finish Train
+Start Validation
+Epoch 68/100: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it, f_score=0.802, lr=7.92e-7, total_loss=0.228]
+Finish Validation
+Epoch:68/100
+Total Loss: 0.179 || Val Loss: 0.182 
+Epoch 69/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 69/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.794, lr=7.44e-7, total_loss=0.182]
+Finish Train
+Start Validation
+Epoch 69/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.833, lr=7.44e-7, total_loss=0.224]
+Finish Validation
+Epoch:69/100
+Total Loss: 0.177 || Val Loss: 0.179 
+Start Train
+Epoch 70/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.797, lr=7e-7, total_loss=0.179]
+Finish Train
+Start Validation
+Epoch 70/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.834, lr=7e-7, total_loss=0.222]
+Finish Validation
+Epoch:70/100
+Total Loss: 0.174 || Val Loss: 0.177 
+Start Train
+Epoch 71/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.798, lr=6.58e-7, total_loss=0.169]
+Epoch 71/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 71/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.859, lr=6.58e-7, total_loss=0.223]
+Finish Validation
+Epoch:71/100
+Total Loss: 0.164 || Val Loss: 0.179 
+Start Train
+Epoch 72/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.815, lr=6.18e-7, total_loss=0.185]
+Finish Train
+Start Validation
+Epoch 72/100: 100%|██████████| 4/4 [00:04<00:00,  1.03s/it, f_score=0.784, lr=6.18e-7, total_loss=0.228]
+Finish Validation
+Epoch:72/100
+Total Loss: 0.180 || Val Loss: 0.182 
+Start Train
+Epoch 73/100: 100%|██████████| 36/36 [00:24<00:00,  1.50it/s, f_score=0.798, lr=5.81e-7, total_loss=0.173]
+Epoch 73/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 73/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.786, lr=5.81e-7, total_loss=0.227]
+Finish Validation
+Epoch:73/100
+Total Loss: 0.168 || Val Loss: 0.182 
+Start Train
+Epoch 74/100: 100%|██████████| 36/36 [00:22<00:00,  1.57it/s, f_score=0.806, lr=5.46e-7, total_loss=0.167]
+Epoch 74/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 74/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.813, lr=5.46e-7, total_loss=0.223]
+Finish Validation
+Epoch:74/100
+Total Loss: 0.162 || Val Loss: 0.178 
+Start Train
+Epoch 75/100: 100%|██████████| 36/36 [00:23<00:00,  1.56it/s, f_score=0.782, lr=5.13e-7, total_loss=0.183]
+Epoch 75/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 75/100: 100%|██████████| 4/4 [00:04<00:00,  1.08s/it, f_score=0.776, lr=5.13e-7, total_loss=0.229]
+Finish Validation
+Epoch:75/100
+Total Loss: 0.178 || Val Loss: 0.183 
+Start Train
+Epoch 76/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.826, lr=4.83e-7, total_loss=0.159]
+Finish Train
+Start Validation
+Epoch 76/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.827, lr=4.83e-7, total_loss=0.227]
+Finish Validation
+Epoch:76/100
+Total Loss: 0.155 || Val Loss: 0.182 
+Start Train
+Epoch 77/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.793, lr=4.54e-7, total_loss=0.177]
+Epoch 77/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 77/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.778, lr=4.54e-7, total_loss=0.231]
+Finish Validation
+Epoch:77/100
+Total Loss: 0.172 || Val Loss: 0.185 
+Epoch 78/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 78/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.792, lr=4.26e-7, total_loss=0.177]
+Epoch 78/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 78/100: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it, f_score=0.784, lr=4.26e-7, total_loss=0.236]
+Finish Validation
+Epoch:78/100
+Total Loss: 0.173 || Val Loss: 0.189 
+Start Train
+Epoch 79/100: 100%|██████████| 36/36 [00:23<00:00,  1.54it/s, f_score=0.795, lr=4.01e-7, total_loss=0.177]
+Epoch 79/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 79/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.808, lr=4.01e-7, total_loss=0.223]
+Finish Validation
+Epoch:79/100
+Total Loss: 0.172 || Val Loss: 0.179 
+Start Train
+Epoch 80/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.803, lr=3.77e-7, total_loss=0.175]
+Epoch 80/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 80/100: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it, f_score=0.834, lr=3.77e-7, total_loss=0.221]
+Finish Validation
+Epoch:80/100
+Total Loss: 0.171 || Val Loss: 0.177 
+Start Train
+Epoch 81/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.807, lr=3.54e-7, total_loss=0.178]
+Finish Train
+Start Validation
+Epoch 81/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.741, lr=3.54e-7, total_loss=0.23]
+Finish Validation
+Epoch:81/100
+Total Loss: 0.173 || Val Loss: 0.184 
+Start Train
+Epoch 82/100: 100%|██████████| 36/36 [00:22<00:00,  1.58it/s, f_score=0.8, lr=3.33e-7, total_loss=0.173]
+Epoch 82/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 82/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.772, lr=3.33e-7, total_loss=0.231]
+Finish Validation
+Epoch:82/100
+Total Loss: 0.168 || Val Loss: 0.185 
+Start Train
+Epoch 83/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.803, lr=3.13e-7, total_loss=0.171]
+Finish Train
+Start Validation
+Epoch 83/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.79, lr=3.13e-7, total_loss=0.222]
+Finish Validation
+Epoch:83/100
+Total Loss: 0.166 || Val Loss: 0.177 
+Epoch 84/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 84/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.774, lr=2.94e-7, total_loss=0.191]
+Epoch 84/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 84/100: 100%|██████████| 4/4 [00:04<00:00,  1.06s/it, f_score=0.807, lr=2.94e-7, total_loss=0.227]
+Finish Validation
+Epoch:84/100
+Total Loss: 0.186 || Val Loss: 0.181 
+Epoch 85/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 85/100: 100%|██████████| 36/36 [00:24<00:00,  1.48it/s, f_score=0.802, lr=2.77e-7, total_loss=0.179]
+Epoch 85/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 85/100: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it, f_score=0.787, lr=2.77e-7, total_loss=0.227]
+Finish Validation
+Epoch:85/100
+Total Loss: 0.175 || Val Loss: 0.181 
+Start Train
+Epoch 86/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.804, lr=2.6e-7, total_loss=0.163]
+Finish Train
+Start Validation
+Epoch 86/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.822, lr=2.6e-7, total_loss=0.224]
+Finish Validation
+Epoch:86/100
+Total Loss: 0.159 || Val Loss: 0.179 
+Start Train
+Epoch 87/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.815, lr=2.44e-7, total_loss=0.169]
+Finish Train
+Start Validation
+Epoch 87/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.829, lr=2.44e-7, total_loss=0.223]
+Finish Validation
+Epoch:87/100
+Total Loss: 0.164 || Val Loss: 0.179 
+Start Train
+Epoch 88/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.789, lr=2.3e-7, total_loss=0.179]
+Finish Train
+Start Validation
+Epoch 88/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.781, lr=2.3e-7, total_loss=0.223]
+Finish Validation
+Epoch:88/100
+Total Loss: 0.174 || Val Loss: 0.178 
+Start Train
+Epoch 89/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.817, lr=2.16e-7, total_loss=0.168]
+Epoch 89/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 89/100: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it, f_score=0.842, lr=2.16e-7, total_loss=0.222]
+Finish Validation
+Epoch:89/100
+Total Loss: 0.163 || Val Loss: 0.178 
+Epoch 90/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 90/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.805, lr=2.03e-7, total_loss=0.161]
+Finish Train
+Start Validation
+Epoch 90/100: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it, f_score=0.799, lr=2.03e-7, total_loss=0.218]
+Finish Validation
+Epoch:90/100
+Total Loss: 0.157 || Val Loss: 0.175 
+Start Train
+Epoch 91/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.801, lr=1.91e-7, total_loss=0.197]
+Epoch 91/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 91/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.812, lr=1.91e-7, total_loss=0.226]
+Finish Validation
+Epoch:91/100
+Total Loss: 0.192 || Val Loss: 0.181 
+Start Train
+Epoch 92/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.79, lr=1.79e-7, total_loss=0.176]
+Epoch 92/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 92/100: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it, f_score=0.809, lr=1.79e-7, total_loss=0.228]
+Finish Validation
+Epoch:92/100
+Total Loss: 0.171 || Val Loss: 0.182 
+Epoch 93/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 93/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.793, lr=1.69e-7, total_loss=0.181]
+Finish Train
+Start Validation
+Epoch 93/100: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it, f_score=0.822, lr=1.69e-7, total_loss=0.227]
+Finish Validation
+Epoch:93/100
+Total Loss: 0.176 || Val Loss: 0.181 
+Epoch 94/100:   0%|          | 0/36 [00:00<?, ?it/s<class 'dict'>]Start Train
+Epoch 94/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.813, lr=1.58e-7, total_loss=0.166]
+Epoch 94/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 94/100: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it, f_score=0.826, lr=1.58e-7, total_loss=0.223]
+Finish Validation
+Epoch:94/100
+Total Loss: 0.162 || Val Loss: 0.178 
+Start Train
+Epoch 95/100: 100%|██████████| 36/36 [00:23<00:00,  1.55it/s, f_score=0.801, lr=1.49e-7, total_loss=0.169]
+Finish Train
+Start Validation
+Epoch 95/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.846, lr=1.49e-7, total_loss=0.216]
+Finish Validation
+Epoch:95/100
+Total Loss: 0.165 || Val Loss: 0.173 
+Start Train
+Epoch 96/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.818, lr=1.4e-7, total_loss=0.164]
+Epoch 96/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 96/100: 100%|██████████| 4/4 [00:04<00:00,  1.07s/it, f_score=0.786, lr=1.4e-7, total_loss=0.227]
+Finish Validation
+Epoch:96/100
+Total Loss: 0.160 || Val Loss: 0.181 
+Start Train
+Epoch 97/100: 100%|██████████| 36/36 [00:23<00:00,  1.51it/s, f_score=0.798, lr=1.32e-7, total_loss=0.175]
+Epoch 97/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 97/100: 100%|██████████| 4/4 [00:04<00:00,  1.10s/it, f_score=0.777, lr=1.32e-7, total_loss=0.227]
+Finish Validation
+Epoch:97/100
+Total Loss: 0.170 || Val Loss: 0.182 
+Start Train
+Epoch 98/100: 100%|██████████| 36/36 [00:23<00:00,  1.52it/s, f_score=0.806, lr=1.24e-7, total_loss=0.174]
+Finish Train
+Start Validation
+Epoch 98/100: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it, f_score=0.813, lr=1.24e-7, total_loss=0.224]
+Finish Validation
+Epoch:98/100
+Total Loss: 0.169 || Val Loss: 0.179 
+Start Train
+Epoch 99/100: 100%|██████████| 36/36 [00:23<00:00,  1.50it/s, f_score=0.814, lr=1.16e-7, total_loss=0.152]
+Epoch 99/100:   0%|          | 0/4 [00:00<?, ?it/s<class 'dict'>]Finish Train
+Start Validation
+Epoch 99/100: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it, f_score=0.839, lr=1.16e-7, total_loss=0.226]
+Finish Validation
+Epoch:99/100
+Total Loss: 0.148 || Val Loss: 0.181 
+Start Train
+Epoch 100/100: 100%|██████████| 36/36 [00:23<00:00,  1.53it/s, f_score=0.801, lr=1.09e-7, total_loss=0.178]
+Finish Train
+Start Validation
+Epoch 100/100: 100%|██████████| 4/4 [00:04<00:00,  1.03s/it, f_score=0.796, lr=1.09e-7, total_loss=0.212]
+Finish Validation
+Epoch:100/100
+Total Loss: 0.174 || Val Loss: 0.170 
+
